@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ImportArchiveDialog">
+		<item key="x" value="842"/>
+		<item key="y" value="399"/>
+		<item key="width" value="875"/>
+		<item key="height" value="570"/>
+		<list key="HISTORY_JAR_LIST">
+			<item value="C:\Users\karen\OneDrive\Desktop\Hotel Project Local\lib\jgoodies-common-1.2.0.jar"/>
+			<item value="C:\Users\karen\OneDrive\Desktop\Hotel Project Local\lib\jcalendar-1.4.jar"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<addComponent
+		id="com.toedter.calendar.JDayChooser_1699128764366"
+		name="JDayChooser"
+		description="Custom component: com.toedter.calendar.JDayChooser"
+		visible="true"
+		class="com.toedter.calendar.JDayChooser"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.toedter.calendar.JMonthChooser_1699128764366"
+		name="JMonthChooser"
+		description="Custom component: com.toedter.calendar.JMonthChooser"
+		visible="true"
+		class="com.toedter.calendar.JMonthChooser"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.toedter.components.JLocaleChooser_1699128764366"
+		name="JLocaleChooser"
+		description="Custom component: com.toedter.components.JLocaleChooser"
+		visible="true"
+		class="com.toedter.components.JLocaleChooser"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.toedter.calendar.JCalendar_1699128764366"
+		name="JCalendar"
+		description="Custom component: com.toedter.calendar.JCalendar"
+		visible="true"
+		class="com.toedter.calendar.JCalendar"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.toedter.calendar.JDateChooser_1699128764366"
+		name="JDateChooser"
+		description="Custom component: com.toedter.calendar.JDateChooser"
+		visible="true"
+		class="com.toedter.calendar.JDateChooser"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.toedter.components.JSpinField_1699128764366"
+		name="JSpinField"
+		description="Custom component: com.toedter.components.JSpinField"
+		visible="true"
+		class="com.toedter.components.JSpinField"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.toedter.calendar.JYearChooser_1699128764366"
+		name="JYearChooser"
+		description="Custom component: com.toedter.calendar.JYearChooser"
+		visible="true"
+		class="com.toedter.calendar.JYearChooser"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.base.Objects_1699128789514"
+		name="Objects"
+		description="Custom component: com.jgoodies.common.base.Objects"
+		visible="true"
+		class="com.jgoodies.common.base.Objects"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.base.Preconditions_1699128789514"
+		name="Preconditions"
+		description="Custom component: com.jgoodies.common.base.Preconditions"
+		visible="true"
+		class="com.jgoodies.common.base.Preconditions"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.base.Strings_1699128789514"
+		name="Strings"
+		description="Custom component: com.jgoodies.common.base.Strings"
+		visible="true"
+		class="com.jgoodies.common.base.Strings"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.base.SystemUtils_1699128789514"
+		name="SystemUtils"
+		description="Custom component: com.jgoodies.common.base.SystemUtils"
+		visible="true"
+		class="com.jgoodies.common.base.SystemUtils"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.bean.AbstractBean_1699128789514"
+		name="AbstractBean"
+		description="Custom component: com.jgoodies.common.bean.AbstractBean"
+		visible="true"
+		class="com.jgoodies.common.bean.AbstractBean"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.bean.ObservableBean_1699128789514"
+		name="ObservableBean"
+		description="Custom component: com.jgoodies.common.bean.ObservableBean"
+		visible="true"
+		class="com.jgoodies.common.bean.ObservableBean"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.bean.ObservableBean2_1699128789514"
+		name="ObservableBean2"
+		description="Custom component: com.jgoodies.common.bean.ObservableBean2"
+		visible="true"
+		class="com.jgoodies.common.bean.ObservableBean2"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.collect.ArrayListModel_1699128789514"
+		name="ArrayListModel"
+		description="Custom component: com.jgoodies.common.collect.ArrayListModel"
+		visible="true"
+		class="com.jgoodies.common.collect.ArrayListModel"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.collect.LinkedListModel_1699128789514"
+		name="LinkedListModel"
+		description="Custom component: com.jgoodies.common.collect.LinkedListModel"
+		visible="true"
+		class="com.jgoodies.common.collect.LinkedListModel"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.collect.LinkedListModel$ReportingListIterator_1699128789514"
+		name="ReportingListIterator"
+		description="Custom component: com.jgoodies.common.collect.LinkedListModel$ReportingListIterator"
+		visible="true"
+		class="com.jgoodies.common.collect.LinkedListModel$ReportingListIterator"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.collect.ObservableList_1699128789514"
+		name="ObservableList"
+		description="Custom component: com.jgoodies.common.collect.ObservableList"
+		visible="true"
+		class="com.jgoodies.common.collect.ObservableList"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.format.AbstractWrappedDateFormat_1699128789514"
+		name="AbstractWrappedDateFormat"
+		description="Custom component: com.jgoodies.common.format.AbstractWrappedDateFormat"
+		visible="true"
+		class="com.jgoodies.common.format.AbstractWrappedDateFormat"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.format.EmptyDateFormat_1699128789514"
+		name="EmptyDateFormat"
+		description="Custom component: com.jgoodies.common.format.EmptyDateFormat"
+		visible="true"
+		class="com.jgoodies.common.format.EmptyDateFormat"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.format.EmptyFormat_1699128789514"
+		name="EmptyFormat"
+		description="Custom component: com.jgoodies.common.format.EmptyFormat"
+		visible="true"
+		class="com.jgoodies.common.format.EmptyFormat"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.format.EmptyNumberFormat_1699128789514"
+		name="EmptyNumberFormat"
+		description="Custom component: com.jgoodies.common.format.EmptyNumberFormat"
+		visible="true"
+		class="com.jgoodies.common.format.EmptyNumberFormat"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.internal.RenderingUtils_1699128789514"
+		name="RenderingUtils"
+		description="Custom component: com.jgoodies.common.internal.RenderingUtils"
+		visible="true"
+		class="com.jgoodies.common.internal.RenderingUtils"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.swing.MnemonicUtils_1699128789514"
+		name="MnemonicUtils"
+		description="Custom component: com.jgoodies.common.swing.MnemonicUtils"
+		visible="true"
+		class="com.jgoodies.common.swing.MnemonicUtils"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.swing.MnemonicUtils$1_1699128789514"
+		name="1"
+		description="Custom component: com.jgoodies.common.swing.MnemonicUtils$1"
+		visible="true"
+		class="com.jgoodies.common.swing.MnemonicUtils$1"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="com.jgoodies.common.swing.MnemonicUtils$MnemonicText_1699128789514"
+		name="MnemonicText"
+		description="Custom component: com.jgoodies.common.swing.MnemonicUtils$MnemonicText"
+		visible="true"
+		class="com.jgoodies.common.swing.MnemonicUtils$MnemonicText"
+		category="org.eclipse.wb.swing.components"/>
+</commands>
